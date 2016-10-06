@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MagicSquare</string>
+    <string name="alert_message">Please input impair number</string>
+</resources>
